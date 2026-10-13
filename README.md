@@ -1,57 +1,48 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="./profile-hero-mobile.svg">
-  <img src="./profile-hero.svg" width="100%" alt="Fantexi — Interfaces with intent. Frontend, full stack and AI tools.">
-</picture>
+# Hi, I'm An Jiang 👋
 
-# Hi, I'm Fantexi · 饭特稀
+<img align="right" src="./an-jiang-collage.jpg" width="300" alt="Original manga collage of An Jiang's anime persona, in black ink and vermilion on ivory paper">
 
-**写界面，也写界面背后的逻辑。**
+**Build useful software. Leave room for imagination.**
 
-从 Vue / React 前端，到 Node.js 服务，再到 AI 命令行工具。这里记录我的开发实践，也留一点空间给新的想法。
+- 👨‍💻 I build **frontend and full-stack projects**.
+- 🛠️ I work with **React, Vue, TypeScript and JavaScript**.
+- ⚙️ My projects also explore **Node.js, Koa and Electron**.
+- 🤖 I'm interested in **AI applications and developer tools** — including an Agent-friendly CLI.
+- 🎨 I'm exploring **creative visualization** and expressive interfaces.
+- 🌱 From blog systems to real-time chat, I learn by **building things**.
 
-[探索我的项目 ↗](https://github.com/caojiaqi666?tab=repositories) · [代码动态](https://github.com/caojiaqi666?tab=overview) · [交流想法](https://github.com/caojiaqi666/caojiaqi666/issues)
+**Languages & tools**
 
-## 01 / Toolbox
+React · Vue · TypeScript · JavaScript  
+Node.js · Koa · WebSocket · Electron  
+Vite · Git · Go
 
-**界面**　React · Vue · TypeScript · JavaScript  
-**服务**　Node.js · Koa · WebSocket  
-**工具**　Vite · Electron · Go
+[Browse my projects ↗](https://github.com/caojiaqi666?tab=repositories) · [Say hello](https://github.com/caojiaqi666/caojiaqi666/issues)
 
-技术是工具，把想法做出来才是目的。
+<br clear="both">
 
-## 02 / Selected work
+## Selected projects
 
 ### [pipe ↗](https://github.com/caojiaqi666/pipe)
-终端上下文 × AI。面向 Agent 的命令行工具，将自然语言指令与目录上下文连接到 AI，支持结构化输出与 schema 自省。
-
-
-`Go`　`AI tooling`　`CLI`
+A CLI that connects terminal context to AI. Built with Go, with structured output and schema introspection for Agent workflows.
 
 ### [adminTemplate ↗](https://github.com/caojiaqi666/adminTemplate)
-Vue 3 + Vite 模板项目。把日常前端开发的起点整理成可复用的工程骨架。
-
-`Vue 3`　`TypeScript`　`Vite`
+A Vue 3 + Vite template project — a practical starting point for frontend development with TypeScript.
 
 ### [chatRoom ↗](https://github.com/caojiaqi666/chatRoom)
-基于 Koa + WebSocket 的多人在线聊天室。从页面交互走到实时通信。
-
-`Node.js`　`Koa`　`WebSocket`
+A multi-user online chat room built with Koa and WebSocket. Exploring the connection between interface and real-time communication.
 
 <details>
-<summary>更多开发实践</summary>
+<summary>More experiments</summary>
 
-- [blogFront](https://github.com/caojiaqi666/blogFront) / [blogServer](https://github.com/caojiaqi666/blogServer) — 博客前端与后端。
-- [bug-electron-app](https://github.com/caojiaqi666/bug-electron-app) — Electron + Vue 桌面 bug 管理应用。
-- [umi-admin](https://github.com/caojiaqi666/umi-admin) — Umi 后台管理项目。
+- [blogFront](https://github.com/caojiaqi666/blogFront) / [blogServer](https://github.com/caojiaqi666/blogServer) — frontend and backend for a personal blog.
+- [bug-electron-app](https://github.com/caojiaqi666/bug-electron-app) — a desktop bug management app with Electron and Vue.
+- [umi-admin](https://github.com/caojiaqi666/umi-admin) — a Umi admin project.
 
 </details>
 
-## 03 / Next to explore
-
-- **AI × 开发工具** — 让上下文流动起来，让工具更容易协作。
-- **交互 × 创意可视化** — 尝试把抽象想法变成能看见、能操作的界面。
-- **前端 × 全栈** — 持续连接用户体验与背后的实现。
-
 ---
 
-<sub>保持好奇，把想法写成代码。 / Stay curious. Keep building.</sub>
+<sub>Code / Create / Explore — An Jiang</sub>
+
+<!-- Artwork: original AI-generated character and collage, created for this profile. No reference author's artwork, franchise character, or brand assets are reused. -->
